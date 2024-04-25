@@ -1,1 +1,1 @@
-# <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F1OWFyc3FqNXUxcmtxazJ3YzlkeDltc3M0emhtcGoxN2pnNWRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/> Bienvenid@ al GitHub de Edson
+# <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F1OWFyc3FqNXUxcmtxazJ3YzlkeDltc3M0emhtcGoxN2pnNWRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/> Bienvenid@ al GitHub de Edson
